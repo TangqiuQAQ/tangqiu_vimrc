@@ -1,0 +1,9 @@
+插件管理器的安装
+
+把plug.vim文件复制或者移动到 ~/.vim/autoload/ 目录下
+
+:PlugInstall 安装插件
+:PlugUpdate 更新插件
+:PlugUpgrade 更新插件管理器
+
+部分特殊字体乱码请更换UbuntuMonoNerd目录下的字体
